@@ -1,6 +1,4 @@
-Sure! Here's the updated profile:
 
----
 
 ## Hello, World! 👾
 
