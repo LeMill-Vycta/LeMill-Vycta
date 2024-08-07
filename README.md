@@ -6,11 +6,11 @@ I'm **LeMill**, a passionate web developer crafting digital experiences on the c
 
 ### 🌐 About Me
 
-I'm a dedicated creator of captivating online spaces. My tools of choice—Python, JavaScript, and C++—allow me to transform ideas into stunning web realities.
+I'm a dedicated creator of captivating online spaces. My tools of choice—Python, JavaScript, C++any other language —allow me to transform ideas into stunning web realities.
 
 ### 🛠️ Arsenal
 
-With VSCode and Sublime Text as my trusty editors, I navigate complexity effortlessly. I also leverage local LLMs, GPT, and Thorium to enhance my development process.
+With VSCode and Cursor as my trusty editors, I navigate complexity effortlessly. I also leverage local LLMs, GPT, and Thorium to enhance my development process.
 
 ### 🚀 Mission
 
